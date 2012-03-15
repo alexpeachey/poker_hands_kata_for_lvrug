@@ -1,1 +1,1 @@
-rvm use @kata
+rvm 1.9.3-p0@poker_hands_kata --create

@@ -2,16 +2,15 @@ source :rubygems
 
 group :development do
   gem 'rspec'
-  gem 'guard'
   gem 'guard-rspec'
 
   # OS X: Uncomment for FSEvent support
-  # gem 'rb-fsevent'
+  gem 'rb-fsevent'
 
   # OS X: Uncomment one of the following for visual notifications
   # gem 'ruby_gntp'
-  # gem 'growl'
-  # gem 'growlnotify'
+  gem 'growl'
+  # gem 'growl_notify'
 
   # Linux: Uncomment for inotify support
   # gem 'rb-inotify'
