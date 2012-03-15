@@ -2,6 +2,9 @@
 
 Project template for starting TDD Kata using Ruby and RSpec
 
+This should have been a fork from jarhart. It's all based on:
+https://github.com/jarhart/kata-template-ruby-rspec.git
+
 ## Usage
 
 Clone the repository.
